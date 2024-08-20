@@ -4,3 +4,4 @@ Idade: 19
 Altura: 179
 Cidade: Porto Alegre
 País: Brasil
+Cor de Cabelo: Preto
