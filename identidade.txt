@@ -1,2 +1,4 @@
 Nome: Joao
 CPF: 000.000.000-00
+Idade: 19
+Altura 179
